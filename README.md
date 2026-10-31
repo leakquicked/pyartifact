@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/pyartifact/actions/workflows/python-checks.yml/badge.svg)
+
 # PyArtifact
 
 Create a local inventory of file names, sizes and SHA-256 digests.
